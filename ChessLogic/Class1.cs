@@ -2,7 +2,6 @@
 {
     public class Class1
     {
-        Console.WriteLine();
-            //this is a comment
+        //lets start with logic
     }
 }
